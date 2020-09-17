@@ -1,0 +1,19 @@
+.mainDiv {
+min-height: 200px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.navbar-brand {
+    font-weight: bold;
+    font-size: xx-large;
+
+}
+.sideBar{
+    min-height: 100px;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    margin-left: 0ch;
+    }
